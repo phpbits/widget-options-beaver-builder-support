@@ -9,7 +9,7 @@ Requires [Widget Options Plugin](https://widget-options.com/)! Extend functional
 
 ## Installation ##
 1. Download, install and activate [Widget Options Plugin](https://wordpress.org/plugins/widget-options/)
-2. Download and install this add-on
+2. Download and install this add-on [here](https://github.com/phpbits/widget-options-beaver-builder-support/archive/master.zip)
 3. You can now enjoy additional Widget Options tab on your beaver builder modules.
 
 ## Bugs ##
