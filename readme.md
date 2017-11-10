@@ -4,7 +4,7 @@
 
 ### Welcome to our GitHub Repository
 
-<strong>Requires [Widget Options Plugin](https://widget-options.com/)! Extend functionalities to Beaver Builder for more visibility restriction options.
+Requires [Widget Options Plugin](https://widget-options.com/)! Extend functionalities to Beaver Builder for more visibility restriction options.
 
 
 ## Installation ##
